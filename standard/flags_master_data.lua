@@ -1446,6 +1446,11 @@ local data = {
 		localised = 'Oceanian',
 		name = 'Oceania',
 	},
+	['rhodesia'] = {
+		flag = 'File:rh hd.png',
+		localised = 'Rhodesian',
+		name = 'Rhodesia',
+	},
 	['southamerica'] = {
 		flag = 'File:Unasur hd.png',
 		localised = 'South American',
@@ -1714,6 +1719,7 @@ local twoLetter = {
 	['py'] = 'paraguay',
 	['qa'] = 'qatar',
 	['re'] = 'reunion',
+	['rh'] = 'rhodesia',
 	['ro'] = 'romania',
 	['rs'] = 'serbia',
 	['ru'] = 'russia',
@@ -1983,6 +1989,7 @@ local threeLetter = {
 	['pyf'] = 'frenchpolynesia',
 	['qat'] = 'qatar',
 	['reu'] = 'reunion',
+	['rho'] = 'rhodesia',
 	['rou'] = 'romania',
 	['rus'] = 'russia',
 	['rwa'] = 'rwanda',
